@@ -1,4 +1,4 @@
-4886
+4911
 120C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64\node.abi115.node133787565512032799 0
 93C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\htmlnano\lib\modules\minifyCss.mjs133787565518686783 0
 92C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\semver\functions\compare-loose.js133787565513112720 0
@@ -7,7 +7,7 @@
 90C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\caniuse-lite\data\regions\KN.js133787565525832247 0
 68C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\env-paths133787565511525501 1
 107C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\posthtml\node_modules\domutils\lib\querying.d.ts133787565515894857 0
-50C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\dist133787583333087213 1
+50C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\dist133787590743644960 1
 98C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@parcel\transformer-babel\src\config.js133787565513552707 0
 89C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\detect-libc\lib\detect-libc.js133787565512612692 0
 74C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\fastq\README.md133787566466156903 0
@@ -17,7 +17,7 @@
 103C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@parcel\transformer-html\node_modules\srcset133787565511832762 1
 82C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\domhandler\lib\index.js133787565510506172 0
 103C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@parcel\workers\lib\threads\ThreadsWorker.js133787565516852045 0
-56C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\src\app.js133787582393645880 0
+56C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\src\app.js133787590272031004 0
 81C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\semver\functions\lt.js133787565515674809 0
 106C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@parcel\transformer-image\lib\validateConfig.js133787565512622776 0
 95C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@swc\helpers\esm\_new_arrow_check.js133787565520083647 0
@@ -51,7 +51,7 @@
 92C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@parcel\packager-raw\package.json133787565511425518 0
 109C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@parcel\transformer-babel\lib\remapAstLocations.js133787565514562687 0
 111C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@parcel\runtime-js\src\helpers\browser\css-loader.js133787565514182733 0
-61C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\src\dataBase.js133787578146798717 0
+61C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\src\dataBase.js133787588271700002 0
 58C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\package.json133787569118275649 0
 126C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages133787565531910705 0
 102C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@swc\helpers\cjs\_sliced_to_array_loose.cjs133787565518314769 0
@@ -697,6 +697,7 @@
 87C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\posthtml\types\posthtml.d.ts133787565512532672 0
 81C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\commander\lib\error.js133787565512182776 0
 106C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@parcel\transformer-html\lib\HTMLTransformer.js133787565511605414 0
+129C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\objects\56133787590763786386 1
 105C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@swc\helpers\src\_class_private_method_set.mjs133787565524064277 0
 78C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\type-fest\readme.md133787565510306141 0
 80C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\fs-extra\lib\index.js133787566466256937 0
@@ -847,7 +848,7 @@
 124C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\hooks133787569211955815 1
 86C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\js-yaml\dist\js-yaml.min.js133787565514912695 0
 87C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\ordered-binary\tests\test.js133787565512682742 0
-68C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\dist\index.0641b553.js133787582393834379 0
+68C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\dist\index.0641b553.js133787590272364376 0
 77C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\tslib\tslib.es6.js133787565511362014 0
 84C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\domutils\lib\esm\feeds.js133787565509829503 0
 105C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\caniuse-lite\data\features\domcontentloaded.js133787565523033605 0
@@ -1061,6 +1062,7 @@
 104C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\msgpackr-extract\node_modules\detect-libc\lib133787565510885409 1
 81C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\semver\functions\gt.js133787565514262671 0
 84C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\semver\functions\patch.js133787565516517943 0
+131C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\index.e7ae83f1.js133787590763207603 0
 91C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\fast-glob\out\readers\async.d.ts133787566466802405 0
 82C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\semver\functions\gte.js133787565514392695 0
 83C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\find-cache-dir\readme.md133787566465854538 0
@@ -1096,6 +1098,7 @@
 89C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\gh-pages\bin\gh-pages-clean.js133787566465634544 0
 85C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\async\internal\awaitify.js133787566466540415 0
 79C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\caniuse-lite\LICENSE133787565509157728 0
+129C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\objects\a6133787590763876803 1
 97C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@parcel\packager-js\lib\dev-prelude.js133787565511435456 0
 110C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_drop.1133787565515814917 0
 93C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@parcel\package-manager\index.d.ts133787565517306284 0
@@ -2234,7 +2237,7 @@
 75C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\dir-glob\license133787566465714510 0
 91C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\htmlparser2\lib\Tokenizer.js.map133787565515934874 0
 96C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\caniuse-lite\data\features\datauri.js133787565522566772 0
-135C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\index.0641b553.js.map133787569230513650 0
+135C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\index.0641b553.js.map133787590763197605 0
 94C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\htmlparser2\lib\WritableStream.d.ts133787565516842159 0
 90C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\caniuse-lite\data\regions\MH.js133787565526562659 0
 109C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\caniuse-lite\data\features\high-resolution-time.js133787565524635954 0
@@ -2269,7 +2272,7 @@
 112C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\caniuse-lite\data\features\intersectionobserver-v2.js133787565525391198 0
 78C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\htmlnano\index.d.ts133787565519096763 0
 108C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\caniuse-lite\data\features\once-event-listener.js133787565527393232 0
-129C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\FETCH_HEAD133787569227862361 0
+129C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\FETCH_HEAD133787590758227165 0
 105C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\caniuse-lite\data\features\css-nth-child-of.js133787565521197553 0
 107C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\caniuse-lite\data\features\speech-recognition.js133787565528904306 0
 77C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\htmlnano\index.mjs133787565518586768 0
@@ -2325,7 +2328,7 @@
 84C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@swc\helpers\cjs\_set.cjs133787565518272798 0
 108C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\htmlnano\lib\modules\normalizeAttributeValues.cjs133787565515604900 0
 91C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.bin\download-lmdb-prebuilds.ps1133787565531850681 0
-136C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\index.ace6ded6.css.map133787569230513650 0
+136C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\index.ace6ded6.css.map133787590763207603 0
 108C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\htmlnano\lib\modules\normalizeAttributeValues.mjs133787565518786783 0
 105C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\htmlnano\lib\modules\removeAttributeQuotes.cjs133787565515704845 0
 110C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\entities\lib\esm\generated\decode-data-xml.d.ts.map133787565516254991 0
@@ -2567,6 +2570,7 @@
 106C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\caniuse-lite\data\features\keyboardevent-key.js133787565525750556 0
 82C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\fastq\.github\workflows133787566466300342 1
 89C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\fastq\.github\workflows\ci.yml133787566466310367 0
+129C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\objects\0d133787590763746367 1
 72C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\fast-glob\out133787566467092409 1
 83C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\fast-glob\out\index.d.ts133787566466902431 0
 89C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\fast-glob\out\utils\array.d.ts133787566466780383 0
@@ -2808,7 +2812,7 @@
 86C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\domutils\lib\index.d.ts.map133787565516194875 0
 80C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\domutils\lib\index.js133787565512942757 0
 87C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\domutils\lib\legacy.d.ts.map133787565516384854 0
-129C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\refs\heads133787569232449825 1
+129C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\refs\heads133787590766097944 1
 113C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@parcel\core\test\fixtures\custom-targets\package.json133787565521107585 0
 90C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\caniuse-lite\data\regions\BA.js133787565517589140 0
 85C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\domutils\lib\legacy.js.map133787565516602020 0
@@ -2852,7 +2856,7 @@
 100C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\caniuse-lite\data\features\wasm-bigint.js133787565530259620 0
 90C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\commander\lib\suggestSimilar.js133787565513582696 0
 81C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@parcel\runtime-js\src133787565516692068 1
-126C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\objects133787569232761435 1
+126C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\objects133787590766496627 1
 90C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\caniuse-lite\data\regions\SI.js133787565528780688 0
 91C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\domhandler\lib\esm\node.d.ts.map133787565513822724 0
 76C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\caniuse-lite\dist133787565528984350 1
@@ -2875,7 +2879,7 @@
 92C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\domelementtype\lib\esm\index.d.ts133787565513572700 0
 92C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\caniuse-lite\data\features\ogv.js133787565527333240 0
 82C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@parcel\transformer-raw133787565510770719 1
-61C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\dist\index.html133787583333017182 0
+61C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\dist\index.html133787590743417905 0
 96C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\domelementtype\lib\esm\index.d.ts.map133787565512642672 0
 90C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\domelementtype\lib\esm\index.js133787565509819485 0
 94C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\domelementtype\lib\esm\package.json133787565511792707 0
@@ -2929,6 +2933,7 @@
 84C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\cosmiconfig\dist\types.js133787565514212710 0
 98C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\caniuse-lite\data\features\web-share.js133787565530531715 0
 95C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@swc\helpers\esm\_to_property_key.js133787565520447510 0
+72C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\dist\index.8eebfa51.js.map133787590743619633 0
 108C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@parcel\core\test\fixtures\invalid-source-missing133787565521229794 1
 85C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\cosmiconfig\dist\util.d.ts133787565517670908 0
 89C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\cosmiconfig\dist\util.d.ts.map133787565516984304 0
@@ -3030,7 +3035,7 @@
 90C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\caniuse-lite\data\regions\BI.js133787565518160933 0
 90C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\caniuse-lite\data\regions\BN.js133787565518324766 0
 90C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\caniuse-lite\data\regions\BY.js133787565518686783 0
-69C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\dist\index.4d663569.css133787581446642626 0
+69C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\dist\index.4d663569.css133787589183705362 0
 90C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\caniuse-lite\data\regions\CH.js133787565518966785 0
 95C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@parcel\source-map\dist\node.js.flow133787565509167740 0
 109C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\caniuse-lite\data\features\css-at-counter-style.js133787565519636749 0
@@ -3200,6 +3205,7 @@
 92C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@parcel\utils\test\config.test.js133787565514232715 0
 106C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\caniuse-lite\data\features\chacha20-poly1305.js133787565518986765 0
 93C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@parcel\workers\test\workerfarm.js133787565517476308 0
+129C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\objects\4d133787590765952385 1
 106C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\caniuse-lite\data\features\channel-messaging.js133787565519026745 0
 93C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@swc\helpers\esm\_object_spread.js133787565520173660 0
 120C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\caniuse-lite\data\features\client-hints-dpr-width-viewport.js133787565519156799 0
@@ -3211,7 +3217,7 @@
 103C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@swc\helpers\_\_define_property\package.json133787565522119530 0
 93C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\caniuse-lite\data\features\colr.js133787565519276784 0
 100C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\caniuse-lite\data\features\customevent.js133787565522456719 0
-128C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\logs\HEAD133787569232439795 0
+128C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\logs\HEAD133787590766097944 0
 112C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\caniuse-lite\data\features\comparedocumentposition.js133787565519296758 0
 102C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\caniuse-lite\data\features\console-basic.js133787565519316735 0
 101C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\caniuse-lite\data\features\console-time.js133787565519336791 0
@@ -3272,6 +3278,7 @@
 74C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\async\filter.js133787566467108739 0
 100C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\caniuse-lite\data\features\css-lch-lab.js133787565520797593 0
 89C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@swc\helpers\src\_to_array.mjs133787565524755999 0
+135C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\index.8eebfa51.js.map133787590763197605 0
 103C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\caniuse-lite\data\features\css-line-clamp.js133787565520847618 0
 106C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\caniuse-lite\data\features\css-logical-props.js133787565520867524 0
 80C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\async\setImmediate.js133787566468274259 0
@@ -3434,7 +3441,7 @@
 101C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\caniuse-lite\data\features\inline-block.js133787565525089197 0
 113C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\caniuse-lite\data\features\input-autocomplete-onoff.js133787565525109274 0
 109C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\caniuse-lite\data\features\input-file-directory.js133787565525199218 0
-113C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git133787569230503629 1
+113C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git133787590763187669 1
 108C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\caniuse-lite\data\features\input-file-multiple.js133787565525211140 0
 104C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\caniuse-lite\data\features\input-inputmode.js133787565525221191 0
 101C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\caniuse-lite\data\features\input-number.js133787565525251216 0
@@ -4181,7 +4188,7 @@
 93C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@parcel\watcher\src\wasm\include.h133787565515744825 0
 98C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@parcel\watcher\src\wasm\WasmBackend.hh133787565516742073 0
 93C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@parcel\watcher\src\unix\legacy.cc133787565514372711 0
-168C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\objects\65\f41ed7155ad1779860e5ac539a721fc9c2a9bc133787569230947328 0
+168C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\objects\65\f41ed7155ad1779860e5ac539a721fc9c2a9bc133787590763712934 0
 106C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@parcel\watcher\src\shared\BruteForceBackend.cc133787565511595420 0
 95C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@parcel\package-manager\lib\index.js133787565512372696 0
 106C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@parcel\watcher\src\shared\BruteForceBackend.hh133787565515924828 0
@@ -4293,7 +4300,7 @@
 82C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@parcel\source-map\dist133787565515124877 1
 99C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@parcel\source-map\parcel_sourcemap_node133787565518736795 1
 133C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-web\parcel_sourcemap_wasm.js133787565514282778 0
-131C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\index.0641b553.js133787569230503629 0
+131C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\index.0641b553.js133787590763197605 0
 108C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@parcel\source-map\parcel_sourcemap_node\index.js133787565513462693 0
 103C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@parcel\source-map\parcel_sourcemap_node\src133787565518716752 1
 140C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.linux-arm-gnueabihf.node133787565517416300 0
@@ -4311,6 +4318,7 @@
 82C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@parcel\rust\index.d.ts133787565531526901 0
 79C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@parcel\rust\LICENSE133787565509157728 0
 84C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@parcel\rust\package.json133787565512062699 0
+168C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\objects\56\7dc0fba0bdebd5938aa74718a287589909bbd0133787590763776416 0
 108C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@parcel\rust\parcel-node-bindings.darwin-x64.node133787565523628096 0
 117C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@parcel\rust\parcel-node-bindings.linux-arm-gnueabihf.node133787565525281208 0
 107C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@parcel\packager-js\src\ScopeHoistingPackager.js133787565514912695 0
@@ -4358,7 +4366,7 @@
 86C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@parcel\reporter-tracer\src133787565510273678 1
 104C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@parcel\reporter-tracer\src\TracerReporter.js133787565510386164 0
 94C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@parcel\reporter-dev-server\LICENSE133787565509117731 0
-73C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\dist\index.4d663569.css.map133787581446672742 0
+73C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\dist\index.4d663569.css.map133787589183735352 0
 99C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@parcel\reporter-dev-server\package.json133787565515624853 0
 90C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@parcel\reporter-dev-server\src133787565515354861 1
 108C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@parcel\reporter-dev-server\src\ServerReporter.js133787565515464860 0
@@ -4477,6 +4485,7 @@
 102C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@parcel\markdown-ansi\test\markdown-ansi.js133787565511595420 0
 101C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@parcel\markdown-ansi\src\markdown-ansi.js133787565510316126 0
 101C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@parcel\markdown-ansi\lib\markdown-ansi.js133787565509689577 0
+129C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\objects\1a133787590763652755 1
 86C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@parcel\logger\package.json133787565512262675 0
 77C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@parcel\logger\src133787565510283698 1
 78C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@parcel\logger\test133787565511455528 1
@@ -4554,7 +4563,7 @@
 99C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@parcel\core\test\RequestTracker.test.js133787565519843663 0
 95C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@parcel\core\test\serializer.test.js133787565519963674 0
 102C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@parcel\core\test\SymbolPropagation.test.js133787565520195609 0
-168C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\objects\e8\1155b73331a192b56a8c8e46311cbc208e4dd3133787569230967341 0
+168C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\objects\e8\1155b73331a192b56a8c8e46311cbc208e4dd3133787590763796364 0
 98C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@parcel\core\test\TargetRequest.test.js133787565520437546 0
 90C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@parcel\core\test\test-utils.js133787565520457521 0
 95C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@parcel\core\test\fixtures\bundle.js133787565517024393 0
@@ -4586,7 +4595,7 @@
 137C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-bad-engines133787565521529628 1
 145C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-no-engines\index.js133787565518676779 0
 146C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-bad-engines\index.js133787565518626771 0
-132C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\index.4d663569.css133787569230513650 0
+132C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\index.4d663569.css133787590763197605 0
 150C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-bad-engines\package.json133787565521539648 0
 101C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@parcel\core\test\fixtures\parcel\index.js133787565518596770 0
 105C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@parcel\core\test\fixtures\parcel\package.json133787565521529628 0
@@ -4598,6 +4607,7 @@
 155C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@parcel\core\test\fixtures\local-plugin-config-pkg\node_modules\parcel-config-local\package.json133787565521419646 0
 117C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@parcel\core\test\fixtures\library-scopehoist\package.json133787565521399679 0
 114C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@parcel\core\test\fixtures\invalid-targets\package.json133787565521329724 0
+168C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\objects\89\18721c208afe508f5fc19a0e7e233ffc6aea0c133787590763672930 0
 129C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@parcel\core\test\fixtures\invalid-target-source-not-file\package.json133787565521299698 0
 120C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@parcel\core\test\fixtures\invalid-target-source-not-file\src133787565518556726 1
 129C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@parcel\core\test\fixtures\invalid-target-source-not-file\src\index.js133787565518566747 0
@@ -4784,7 +4794,7 @@
 92C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@lmdb\lmdb-win32-x64\package.json133787565509367688 0
 89C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@lmdb\lmdb-win32-x64\README.md133787565509921993 0
 72C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@lezer\common133787565513252721 1
-125C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\config133787569231672574 0
+125C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\config133787590764888776 0
 76C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@lezer\lr\LICENSE133787565508955577 0
 81C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@lezer\lr\package.json133787565513112720 0
 78C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@lezer\lr\README.md133787565513362691 0
@@ -4813,44 +4823,58 @@
 89C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@babel\code-frame\lib\index.js133787565510172088 0
 93C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\@babel\code-frame\lib\index.js.map133787565511525501 0
 74C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages133787569211885804 1
-118C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git133787569232469821 1
-136C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\index.4d663569.css.map133787569230513650 0
-131C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\index.7630b740.js133787569230513650 0
-135C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\index.7630b740.js.map133787569230513650 0
-132C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\index.ace6ded6.css133787569230513650 0
-124C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\index.html133787569230523650 0
-133C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\COMMIT_EDITMSG133787569232399901 0
+118C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git133787590766117938 1
+136C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\index.4d663569.css.map133787590763197605 0
+131C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\index.7630b740.js133787590763197605 0
+135C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\index.7630b740.js.map133787590763197605 0
+131C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\index.8eebfa51.js133787590763197605 0
+132C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\index.ace6ded6.css133787590763197605 0
+135C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\index.e7ae83f1.js.map133787590763207603 0
+124C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\index.html133787590763207603 0
+133C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\COMMIT_EDITMSG133787590766022633 0
 130C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\description133787569211895815 0
-123C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\HEAD133787569229983081 0
-124C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\index133787569232379561 0
+123C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\HEAD133787590761038640 0
+128C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\ORIG_HEAD133787590762251704 0
+124C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\index133787590765952385 0
 123C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\info133787569211965841 1
 123C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\logs133787569220362498 1
 123C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\refs133787569220302450 1
 128C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\refs\tags133787569218077642 1
-138C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\refs\remotes\origin133787569251787764 1
-147C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\refs\remotes\origin\gh-pages133787569251777787 0
-138C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\refs\heads\gh-pages133787569232439795 0
+138C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\refs\remotes\origin133787590785956050 1
+147C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\refs\remotes\origin\gh-pages133787590785946040 0
+138C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\refs\heads\gh-pages133787590766087963 0
 134C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\refs\heads\main133787569220362498 0
 129C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\objects\00133787569232419787 1
 129C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\objects\18133787569230865778 1
+129C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\objects\27133787590763896819 1
 129C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\objects\45133787569230845783 1
 129C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\objects\65133787569230957308 1
+129C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\objects\89133787590763682940 1
+129C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\objects\a8133787590763846805 1
 129C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\objects\d3133787569232379561 1
+129C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\objects\dd133787590766068071 1
 131C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\objects\pack133787569220404352 1
 181C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\objects\pack\pack-afa078fc816d40edf5bffc1e4113e2d0a3dbf70a.idx133787569219880668 0
 182C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\objects\pack\pack-afa078fc816d40edf5bffc1e4113e2d0a3dbf70a.pack133787569219880668 0
 181C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\objects\pack\pack-afa078fc816d40edf5bffc1e4113e2d0a3dbf70a.rev133787569219903050 0
-168C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\objects\be\9e83f71862b5ee303e3bbe9c5980d4fbccf3d6133787569230875808 0
-168C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\objects\b9\882274ffa1dd396586fe4019ffa1dbabc7be15133787569230925183 0
+168C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\objects\dd\c3e6495628b0451e185719865372664221f9dd133787590766048023 0
+168C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\objects\be\9e83f71862b5ee303e3bbe9c5980d4fbccf3d6133787590763692953 0
+168C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\objects\b9\882274ffa1dd396586fe4019ffa1dbabc7be15133787590763712934 0
+168C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\objects\a8\23cb7eaaa1eed699ecf3c28b2e4b2644037a13133787590763816454 0
+168C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\objects\a6\e2721848436e8f0067a1e539a67766627509e7133787590763856857 0
+168C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\objects\4d\0935e6cb2b107ff4b37e7876ca82bf0c14b53c133787590765927045 0
 168C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\objects\45\2b5a5487177b0a76d29d425636190b829b9f44133787569230825910 0
-168C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\objects\3a\e811bd30f4c86c5805a86a8103bd56ff9aa44f133787569230987312 0
+168C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\objects\3a\e811bd30f4c86c5805a86a8103bd56ff9aa44f133787590763796364 0
+168C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\objects\27\e76cdecf9f17ed98422299150c5881ad2593e4133787590763886844 0
 168C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\objects\23\ae08614506530f34cfd3e3ec310bbac89135fb133787569231007312 0
-168C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\objects\10\e546e945ada8db576ed107f8ee3060281fc89d133787569230895790 0
+168C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\objects\1a\90413248aba0cbe5e6cb8d402fae1e0f684d41133787590763627479 0
+168C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\objects\10\e546e945ada8db576ed107f8ee3060281fc89d133787590763702922 0
+168C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\objects\0d\3f1a2c5ef7b378fb8ffaf08e8850135bd55a71133787590763732943 0
 134C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\logs\refs\heads133787569232449825 1
 143C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\logs\refs\remotes\origin133787569251777787 1
-152C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\logs\refs\remotes\origin\gh-pages133787569251787764 0
+152C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\logs\refs\remotes\origin\gh-pages133787590785956050 0
 148C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\logs\refs\remotes\origin\HEAD133787569220332460 0
-143C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\logs\refs\heads\gh-pages133787569232449825 0
+143C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\logs\refs\heads\gh-pages133787590766097944 0
 139C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\logs\refs\heads\main133787569220382575 0
 131C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\info\exclude133787569211965841 0
 150C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.cache\gh-pages\https!github.com!v0ts!goit-js-hw-6.git\.git\hooks\fsmonitor-watchman.sample133787569211915840 0
@@ -4881,7 +4905,8 @@
 74C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.bin\semver.ps1133787565531860651 0
 86C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.bin\update-browserslist-db133787565531860651 0
 90C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\node_modules\.bin\update-browserslist-db.cmd133787565531860651 0
-72C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\dist\index.0641b553.js.map133787582393864253 0
+72C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\dist\index.0641b553.js.map133787590272429769 0
 68C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\dist\index.7630b740.js133787569196584040 0
 72C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\dist\index.7630b740.js.map133787569196644047 0
+68C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\dist\index.8eebfa51.js133787590743443911 0
 68C:\Users\_VoTs_\Desktop\projects\goit-js-hw-6\dist\index.e7ae83f1.js133787583333017182 0
