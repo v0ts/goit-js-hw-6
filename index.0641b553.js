@@ -596,6 +596,61 @@ function hmrAccept(bundle /*: ParcelRequire */ , id /*: string */ ) {
 }
 
 },{}],"bNKaB":[function(require,module,exports,__globalThis) {
+var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+var _dataBase = require("./dataBase");
+var _dataBaseDefault = parcelHelpers.interopDefault(_dataBase);
+const formEl = document.querySelector(".form");
+formEl.addEventListener("submit", (e)=>{
+    e.preventDefault();
+    const name = document.getElementById("name").value;
+    const email = document.getElementById("email").value;
+    const message = document.getElementById("message").value;
+    const userFormData = (0, _dataBaseDefault.default)(name, email, message);
+    console.log(userFormData);
+    alert("\u0414\u044F\u043A\u0443\u044E \u0437\u0430 \u043F\u0456\u0434\u043F\u0438\u0441\u043A\u0443 \u043D\u0430 \u043D\u0430\u0448 \u0441\u0435\u0440\u0432\u0456\u0441");
+});
+
+},{"./dataBase":"6NBxy","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"6NBxy":[function(require,module,exports,__globalThis) {
+var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+parcelHelpers.export(exports, "default", ()=>formData);
+function formData(name, email, message) {
+    return {
+        name,
+        email,
+        message
+    };
+}
+
+},{"@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"gkKU3":[function(require,module,exports,__globalThis) {
+exports.interopDefault = function(a) {
+    return a && a.__esModule ? a : {
+        default: a
+    };
+};
+exports.defineInteropFlag = function(a) {
+    Object.defineProperty(a, '__esModule', {
+        value: true
+    });
+};
+exports.exportAll = function(source, dest) {
+    Object.keys(source).forEach(function(key) {
+        if (key === 'default' || key === '__esModule' || Object.prototype.hasOwnProperty.call(dest, key)) return;
+        Object.defineProperty(dest, key, {
+            enumerable: true,
+            get: function() {
+                return source[key];
+            }
+        });
+    });
+    return dest;
+};
+exports.export = function(dest, destName, get) {
+    Object.defineProperty(dest, destName, {
+        enumerable: true,
+        get: get
+    });
+};
 
 },{}]},["9w8YQ","bNKaB"], "bNKaB", "parcelRequire94c2")
 
