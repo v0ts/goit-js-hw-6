@@ -1,4 +1,4 @@
-import formData from "./dataBase";
+import { formData } from "./dataBase";
 
 const formEl = document.querySelector(".form");
 
@@ -10,7 +10,7 @@ formEl.addEventListener("submit", (e) => {
   const message = document.getElementById("message").value;
 
   const userFormData = formData(name, email, message);
-  
-	console.log(userFormData)
-	alert('Дякую за підписку на наш сервіс')
+
+  console.log(userFormData);
+  alert("Дякую за підписку на наш сервіс");
 });

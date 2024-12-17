@@ -6,9 +6,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "npx parcel src/index.html",
     "build": "parcel build src/index.html",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
-
+    "deploy": "gh-pages -d dist",
+    "predeploy": "npm run build"
   },
   "repository": {
     "type": "git",
@@ -20,9 +19,13 @@
   "bugs": {
     "url": "https://github.com/v0ts/goit-js-hw-6/issues"
   },
-  "homepage": "https://github.com/v0ts/goit-js-hw-6#readme",
+  "homepage": "https://v0ts.github.io/goit-js-hw-6/",
   "dependencies": {
     "gh-pages": "^6.2.0",
-    "parcel": "^2.13.2"
+    "parcel": "^2.13.3"
+  },
+  "devDependencies": {
+    "parcel-reporter-clean-dist": "^1.0.4",
+    "posthtml-include": "^2.0.1"
   }
 }

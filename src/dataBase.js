@@ -1,7 +1,7 @@
-export default function formData(name, email, message) {
+export const formData = (name, email, message) => {
   return {
-		 name,
-		 email,
-		 message 
-		};
-}
+    name,
+    email,
+    message,
+  };
+};
