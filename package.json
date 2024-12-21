@@ -1,0 +1,31 @@
+{
+  "name": "goit-js-hw-6",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx parcel src/index.html",
+    "build": "parcel build src/index.html",
+    "deploy": "gh-pages -d dist",
+    "predeploy": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/v0ts/goit-js-hw-6.git"
+  },
+  "keywords": [],
+  "author": "VoTs <cybulskij2011@ukr.net>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/v0ts/goit-js-hw-6/issues"
+  },
+  "homepage": "https://v0ts.github.io/goit-js-hw-6/",
+  "dependencies": {
+    "gh-pages": "^6.2.0",
+    "parcel": "^2.13.3"
+  },
+  "devDependencies": {
+    "parcel-reporter-clean-dist": "^1.0.4",
+    "posthtml-include": "^2.0.1"
+  }
+}
